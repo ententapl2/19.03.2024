@@ -12,4 +12,6 @@ function pot(n, w){
 
 }
 
-(pot(3, 2))
+(pot(3, 2));
+
+console.log("Python  jest lepszy  niż JS i C++");
